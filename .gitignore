@@ -1,0 +1,7 @@
+/node_modules
+node_modules
+.env
+
+smart-contract/node_modules
+
+minting-dapp/node_modules
